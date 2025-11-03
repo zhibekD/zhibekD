@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Jibek 👋
 
 <!--
 **zhibekD/zhibekD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I like working across software and data to build things that are both functional and insightful.
+- ⭐️ I'm currently exploring: machine learning, data visualization, and AI applications with interests in healthcare technology.
+- 💻 Experienced in: Java, R, Python, C++, C, Assembly, MySQL, SQL, PHP.
+- 🧩 Frameworks & Tools: pandas, Oracle DB, Scikit-Learn, Vega-Altair, Docker, Jupyter Notebook, Quarto, GNU Make, Codecov.
+- 📧 How to reach me: d26zhibek@gmail.com
+- 💡 Beyond tech:
+   - 🔭 Anything science-y gets my attention.
+   - 🚧 Warning: nature-exploring levels high, hiking skills low.
